@@ -1,1 +1,1 @@
-# README.MD
+Hi! I am Dimas Diar Aidi. I am Graduated Rakamin Academy for Data Science Program. I am interested in **Data Science and Business Intelligence Analyst**.  I am currently learning forecasting E-commerce Shipping Data. I am looking to collaborate on forecasting E-commerce Shipping Data and more about Data Science especially in **Business or Marketing**. Please contact me if you have any question to me. Thank you. 
